@@ -1,35 +1,58 @@
-# 👋 Bienvenue sur mon GitHub ! 
+# 👋 Salut, comment ça va ?
 
-Salut ! Je suis **Léo Makongue**, un passionné d'informatique, actuellement en **deuxième année d'alternance** au **Lycée Gaston Berger** dans le cadre d'un **BTS Services Informatiques aux Organisations**. Avant de me réorienter vers l'informatique, j'ai obtenu un **Bachelor en kinésithérapie** à la **Haute École Condorcet de Tournai** en Belgique.
+Je suis **Léo Makongue**, un passionné d'informatique, actuellement en **deuxième année d'alternance** au **Lycée Gaston Berger** dans le cadre d'un **BTS Services Informatiques aux Organisations**. Avant de me réorienter vers l'informatique, j'ai obtenu un **Bachelor en kinésithérapie** à la **Haute École Condorcet de Tournai** en Belgique.
 
 Je travaille actuellement sur divers projets liés à l'informatique, notamment en **développement web** et **gestion des réseaux**. Mon objectif à long terme est d'intégrer **IMT Nord Europe** pour obtenir un **Diplôme d'Ingénieur** en **Informatique, Télécommunications et Réseaux**.
 
-## 🚀 Compétences
-- **Langages** : HTML, CSS, JavaScript, Python
-- **Frameworks et Outils** : React, Node.js, Git
-- **Bases de données** : MySQL, MongoDB
-- **Développement web** : Création de sites responsives, optimisation des performances, interaction avec les utilisateurs.
-- **Systèmes** : Linux, Windows
+## 🌱 À propos de moi
+✨ Je crée des bugs depuis 2021  
+📚 En ce moment, j'apprends le développement full-stack, la cybersécurité et l'informatique en nuage.  
+🎯 Objectifs : Devenir ingénieur logiciel, améliorer mes compétences en réseau et sécurité, et créer des projets impactants.  
+🎲 Anecdote : J'adore apprendre de nouvelles choses et me lancer des défis !
 
-## 📚 Mes projets
+## 💻 Je code avec
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/db2/db2-original.svg" height="40" alt="db2 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="script logo" />
+</div>
+
+## 📚 Projets
 Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
 
-### 1. [**Nom du projet**](lien-du-projet)
+### 1. [Nom du projet](lien-du-projet)
 **Description** : Un projet où j'ai mis en place [une fonctionnalité spécifique], en utilisant [des technologies spécifiques].  
 **Compétences développées** : Développement web, gestion de base de données, optimisation.
 
-### 2. [**Nom du projet**](lien-du-projet)
+### 2. [Nom du projet](lien-du-projet)
 **Description** : Un projet dans lequel j'ai utilisé [une autre technologie] pour résoudre [un problème spécifique].  
 **Compétences développées** : Programmation orientée objet, gestion des utilisateurs, sécurité.
 
-## 🌱 En ce moment
-- Apprendre de nouvelles technologies pour améliorer mes compétences en **développement full-stack**.
-- Explorer les dernières tendances en **cybersécurité** et **data science**.
-
 ## 📬 Contact
 Tu veux échanger des idées ou discuter de projets ? N'hésite pas à me contacter :
-- **Email** : [ton.email@example.com](mailto:ton.email@example.com)
-- **LinkedIn** : [Ton Profil LinkedIn](https://www.linkedin.com/in/tonprofil)
+- **Email** : [makongue.leopro@gmail.com](mailto:makongue.leopro@gmail.com)
+- **LinkedIn** : [www.linkedin.com/in/léo-makongue-2ba6ab261](https://www.linkedin.com/in/léo-makongue-2ba6ab261)
 
 ---
 
