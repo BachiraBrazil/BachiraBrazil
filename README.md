@@ -38,16 +38,6 @@ Je travaille actuellement sur divers projets liés à l'informatique, notamment 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="script logo" />
 </div>
 
-## 📚 Projets
-Voici quelques-uns des projets sur lesquels j'ai travaillé récemment :
-
-### 1. [Nom du projet](lien-du-projet)
-**Description** : Un projet où j'ai mis en place [une fonctionnalité spécifique], en utilisant [des technologies spécifiques].  
-**Compétences développées** : Développement web, gestion de base de données, optimisation.
-
-### 2. [Nom du projet](lien-du-projet)
-**Description** : Un projet dans lequel j'ai utilisé [une autre technologie] pour résoudre [un problème spécifique].  
-**Compétences développées** : Programmation orientée objet, gestion des utilisateurs, sécurité.
 
 ## 📬 Contact
 Tu veux échanger des idées ou discuter de projets ? N'hésite pas à me contacter :
