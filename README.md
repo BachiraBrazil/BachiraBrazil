@@ -1,8 +1,8 @@
 # 👋 Salut, comment ça va ?
 
-Je suis **Léo Makongue**, un passionné d'informatique, actuellement en **deuxième année d'alternance** au **Lycée Gaston Berger** dans le cadre d'un **BTS Services Informatiques aux Organisations**. Avant de me réorienter vers l'informatique, j'ai obtenu un **Bachelor en kinésithérapie** à la **Haute École Condorcet de Tournai** en Belgique.
+Je suis **Léo Makongue**, un passionné d'informatique, actuellement en **deuxième année d'alternance** à **l'IMT Nord Europe** dans le cadre d'un **d'un diplome d'ingénieur en informatique réseaux et télécommunication**. Avant de me réorienter vers l'informatique, j'ai obtenu un **Bachelor en kinésithérapie** à la **Haute École Condorcet de Tournai** en Belgique.
 
-Je travaille actuellement sur divers projets liés à l'informatique, notamment en **développement web** et **gestion des réseaux**. Mon objectif à long terme est d'intégrer **IMT Nord Europe** pour obtenir un **Diplôme d'Ingénieur** en **Informatique, Télécommunications et Réseaux**.
+Je travaille actuellement sur divers projets liés à l'informatique, notamment en **développement web** et **gestion des réseaux**. Mon objectif à long terme est d'intégrer est de pourvoir travailler à l'étranger dans un domaine qui me passionne.
 
 ## 🌱 À propos de moi
 ✨ Je crée des bugs depuis 2021  
